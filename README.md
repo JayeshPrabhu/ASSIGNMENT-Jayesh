@@ -1,10 +1,13 @@
-# ReachInbox.AI
 
-ReachInbox.AI is a React application built with TypeScript, Tailwind CSS, and Axios, based on the design from Figma and the provided API documentation. It helps users manage their inbox efficiently by integrating various API endpoints.
+
+
+# MyAssignmentApp
+
+This is a React application built with TypeScript, Tailwind CSS, and Axios, based on the design from Figma and the provided API documentation. It helps users manage their inbox efficiently by integrating various API endpoints.
 
 ## Project Overview
 
-This project is a task assignment using the following:
+This project is a task assignment using the following resources:
 - **Figma Design**: [Figma File](https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=6-19154&mode=design&t=03bJH7Jr6FYF7VSR-0)
 - **API Documentation**: [Postman Documentation](https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27)
 
@@ -31,11 +34,43 @@ To install and run this project on your local machine, follow the steps below:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/JayeshPrabhu/ASSIGNMENT-Jayesh.git
-   cd into project
+   ```
 
-run `npm install`
+2. **Navigate into the project directory**:
+   ```bash
+   cd ASSIGNMENT-Jayesh
+   ```
 
-run `npm run dev`
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
 
-now open in browser 
-http://localhost:5173/
+4. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+
+5. **Open your browser and navigate to**:
+   ```
+   http://localhost:5173/
+   ```
+
+## Folder Structure
+
+```
+├── src
+│   ├── assets  
+│   ├── components      
+│   ├── pages      
+│   └── App.tsx     
+└── README.md
+```
+
+## Features
+
+- Clean and responsive UI based on Figma design.
+- API integration using Axios.
+- Efficient inbox management interface.
+
+
