@@ -31,3 +31,11 @@ To install and run this project on your local machine, follow the steps below:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/JayeshPrabhu/ASSIGNMENT-Jayesh.git
+   cd into project
+
+run `npm install`
+
+run `npm run dev`
+
+now open in browser 
+http://localhost:5173/
